@@ -1,2 +1,23 @@
+
 # Defi-IA-JASY
+
+The git should contain a clear markdown Readme, which describes
+Which result you achieved? In which computation time? On which engine?
+What do I have to install to be able to reproduce the code?
+Which command do I have to run to reproduce the results?
+
+## Project description
+
 This was a Meteo-France challenge performed in groups of 4 people. The goal was to predict the acculumated daily rainfall on ground stations.
+Although we have tested a variety of methods to deal with this problem, the ones which gave the best trade-off between lowest MAPE score and fidelity to the data structure were CNNs. The CNN code can be found in this repository.
+
+## Main results
+
+## Technical requirements
+
+The packages required to run this code have been listed in the \bold{requirements.txt} file.
+Other technical requirements?
+
+
+
+
