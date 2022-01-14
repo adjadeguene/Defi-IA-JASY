@@ -20,6 +20,9 @@ Although we have tested a variety of methods to deal with this problem (make pre
 The packages required to run this code have been listed in the **requirements.txt** file.
 Other technical requirements?
 
+`$ pip install -r requirements.txt`
+
+
 
 
 
