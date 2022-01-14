@@ -19,7 +19,7 @@ The packages required to run this code have been listed in the **requirements.tx
 
 Here is the link to download the data needed to run the file:
 
-`https://drive.google.com/drive/folders/1uUojywiuopdgN6M_HJRoRhfK8v55k-eL?usp=sharing`
+`!wget https://drive.google.com/drive/folders/1uUojywiuopdgN6M_HJRoRhfK8v55k-eL?usp=sharing`
 
 
 
