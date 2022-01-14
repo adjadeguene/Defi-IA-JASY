@@ -9,7 +9,7 @@ Although we have tested a variety of methods to deal with this problem, the ones
 
 ## Main results
 
-We have a MAPE score of around 40 % which is not too bad. Except for the first values which are very high, the predictions follow the structure of the test data well.
+We have a MAPE score of around 40 % which is not too bad. Except for the first values that are very high, the predictions follow the structure of the test data well.
 
 ## Technical requirements
 
