@@ -17,8 +17,7 @@ Although we have tested a variety of methods to deal with this problem (make pre
 
 ## Technical requirements
 
-The packages required to run this code have been listed in the **requirements.txt** file.
-Other technical requirements?
+The packages required to run this code have been listed in the **requirements.txt** file. You can run the following command to install these packages:
 
 `$ pip install -r requirements.txt`
 
