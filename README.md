@@ -10,7 +10,8 @@ Which command do I have to run to reproduce the results?
 ## Project description
 
 This was a Meteo-France challenge performed in groups of 4 people. The goal was to predict acculumated daily rainfall on ground stations.
-Although we have tested a variety of methods to deal with this problem, the ones which gave the best trade-off between lowest MAPE score and fidelity to the data structure were CNNs. The CNN code can be found in the **Defi_IA.py** file.
+The database provided contains a significant amount of missing data. The imputation of these missing values was done by interpolation ie by looking at the data of the neighboring stations (code preprocessing.py).
+Although we have tested a variety of methods to deal with this problem (make predictions?), the ones which gave the best trade-off between lowest MAPE score and fidelity to the data structure were CNNs. The CNN code can be found in the **Defi_IA.py** file.
 
 ## Main results
 
